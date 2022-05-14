@@ -1,0 +1,10 @@
+
+*.py
+*.php
+*.java
+
+!important.py
+
+[aeiou].c
+
+
