@@ -5,6 +5,8 @@
 
 !important.py
 
-[aeiou].c
+*[aeiou].c
+
+*[aeiou].py
 
 
