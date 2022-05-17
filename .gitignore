@@ -1,11 +1,10 @@
 
 *.py
-*.php
-*.java
+*.ph
 
-!important.py
+*.java
 
 [aeiou]*.c
 [aaeiou]*.py
 
-
+!important.py
